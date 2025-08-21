@@ -7,16 +7,17 @@
 </div>
 
 ---
-
 ## About Me
 
-I am an **AI/ML Engineer, Full-Stack Developer, and Technical Founder** helping startups and enterprises **turn research into scalable, impactful products**.
+I am **Faisal Ahmed Sifat**, an AI/ML Engineer, Full-Stack Developer, and Technical Founder who **gets things done**.  
+
+Whether you have a world-changing idea and coding alone won’t cut it, or you want to automate your business but aren’t sure how to do it, **I am the guy who turns ideas into reality**. I specialize in **AI-powered SaaS, enterprise-grade architectures, and practical AI solutions**—always with results in mind.
 
 Currently:  
-- **Co-founder & CEO** at [AlphaWolf Ventures](https://alphawolf.ventures)  
+- **Co-founder & CEO** at [AlphaWolf Ventures](https://bd.linkedin.com/company/alphawolf-ventures)  
 - **Full-Stack Engineer** at [Scaledex](https://scaledex.com)  
 
-I specialize in **AI-powered SaaS, enterprise-grade architectures, and medical AI solutions**.
+When you work with me, **expect production-ready solutions that work, end-to-end, on time, and at scale**.
 
 ---
 
@@ -141,16 +142,17 @@ I specialize in **AI-powered SaaS, enterprise-grade architectures, and medical A
 
 ## Work With Me
 
-I help startups and enterprises **turn ambitious ideas into products with measurable impact**.  
+If your goal is to **ship real products, automate processes, or turn research into usable AI solutions**, I am the person who makes it happen. No excuses, no fluff—just **results**.  
 
 ### Opportunities
-- AI Research collaborations (healthcare, education)  
-- SaaS & product development partnerships  
-- Technical consulting (system architecture, AI implementation)  
-- Paid projects, long-term contracts, co-founder opportunities  
+- Build and launch AI-powered products  
+- Automate business workflows and scale operations  
+- Collaborate on SaaS or enterprise systems  
+- Technical consulting on architecture, AI, and system design  
+- Paid projects, long-term contracts, or co-founder opportunities  
 
-### Get in Touch
-[Contact Me via Email](mailto:faisalahmed531@gmail.com)
+### Contact Me
+[Email Me](mailto:faisalahmed531@gmail.com) and let’s **make your idea work in the real world**.
 
 ---
 
