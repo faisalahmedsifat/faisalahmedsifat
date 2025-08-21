@@ -63,26 +63,38 @@ When you work with me, **expect production-ready solutions that work, end-to-end
 
 ---
 
+
 ## Featured Projects
 
 <div align="center">
 
+### Happy Tuna — Restaurant Ordering Platform
+
+* Fully functional online ordering system for Happy Tuna restaurant
+* Mobile-optimized, smooth UI, and real-time order management
+* **Tech Stack:** Next.js, React, Node.js, PostgreSQL
+* **Impact:** Increased order efficiency and customer satisfaction, fully operational
+  [Visit Happy Tuna](https://order.happytuna.com)
+
 ### Tensorify.io — AI Workflow Platform
-- Low-code AI workflow builder  
-- Enterprise-ready, 50+ reusable AI components  
-- **Tech Stack:** Next.js, TypeScript, Microservices  
-[Explore Tensorify](https://tensorify.io)
+
+* Low-code AI workflow builder
+* Enterprise-ready, 50+ reusable AI components
+* **Tech Stack:** Next.js, TypeScript, Microservices
+  [Explore Tensorify](https://tensorify.io)
 
 ### RentEase — PropTech for Bangladesh
-- Mobile-first property management solution  
-- Over 100 properties onboarded in beta  
-- **Tech Stack:** Flutter, Node.js, MongoDB  
-[Preview RentEase](https://rentease.theentrepreneuw.com)
+
+* Mobile-first property management solution
+* Over 10 properties onboarded in beta
+* **Tech Stack:** Flutter, Node.js, MongoDB
+  [Preview RentEase](https://rentease.theentrepreneuw.com)
 
 ### Vocablet — AI-Powered Learning
-- Adaptive vocabulary platform with AI tutors  
-- Personalized learning at scale  
-- **Tech Stack:** React, Node.js, FastAPI
+
+* Adaptive vocabulary platform with AI tutors
+* Personalized learning at scale
+* **Tech Stack:** React, Node.js, FastAPI
 
 </div>
 
