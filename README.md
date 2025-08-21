@@ -125,18 +125,6 @@ When you work with me, **expect production-ready solutions that work, end-to-end
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalahmedsifat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-### Key Skills Progress
-
-**AI & ML**  
-<progress value="95" max="100" style="width: 80%;">95%</progress>
-
-**Full-Stack Development**  
-<progress value="90" max="100" style="width: 80%;">90%</progress>
-
-**System Architecture & DevOps**  
-<progress value="85" max="100" style="width: 80%;">85%</progress>
-
-</div>
 
 ---
 
