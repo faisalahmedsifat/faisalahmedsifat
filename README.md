@@ -100,10 +100,9 @@ In collaboration with the **University of Adelaide**
 
 ---
 
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalahmedsifat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=faisalahmedsifat&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=white&sideNums=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faisalahmedsifat&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=white&sideNums=white)](https://github.com/faisalahmedsifat)
 
 </div>
