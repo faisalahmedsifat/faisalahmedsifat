@@ -18,15 +18,16 @@ Based in Dhaka, Bangladesh.
 
 ## 🚀 What I'm Shipping
 
-### [Tensorify](https://tensorify.io) — Visual Workflow Builder → Production Python
+### [Tensorify](https://tensorify.io) — Visual Backend Builder for APIs, AI Agents, and Automations
 
-Node-based workflow editor that **compiles to real, executable Python** — not YAML, not JSON blobs.
-Connect a runner on your machine or VPS; deploy and trigger workflows from the web app.
+Design workflows visually on a drag-and-drop canvas. Deploy to managed cloud or self-host on your own machine — **compiles to real Python**, zero lock-in.
+
+**What's live:** 33 built-in plugins, AI Agent builder (ReAct + tool calling + streaming), OpenAI-compatible endpoints, MCP platform and trigger servers, in-canvas AI assistant (Claude), node-by-node visual debugging, real-time collaboration, Stripe billing, RBAC.
 
 ```bash
 npm install -g @tensorify.io/cli
 tensorify init                  # guided setup: auth + config
-tensorify runner start          # connect your machine as a runner
+tensorify runner start          # connect your machine as a runner (zero inbound ports)
 tensorify export <workflowId>   # export compiled Python + requirements.txt
 tensorify clone <workflowId>    # pull generated source to inspect or modify
 ```
@@ -35,6 +36,8 @@ tensorify clone <workflowId>    # pull generated source to inspect or modify
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
+![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
 ### [qbitlab](https://github.com/faisalahmedsifat/qbitlab) — AI Agent for Quantum Computing
 
@@ -42,6 +45,19 @@ Agentic tooling for quantum workflows. Active development.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+
+### [Dictator](https://github.com/faisalahmedsifat) — Local Voice Assistant for Linux
+
+Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dictation, smart agent control.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-121212?style=flat-square)
+
+### Flexx.dev — Kernel-as-a-Service
+
+Kernel-as-a-Service platform with custom Go agent for build and deployment orchestration.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
