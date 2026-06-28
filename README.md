@@ -44,7 +44,7 @@ tensorify clone <workflowId>    # pull generated source to inspect or modify
 ![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
 ![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
-### [qbitlab](https://github.com/faisalahmedsifat/qbitlab) — AI Agent for Quantum Computing
+### [catstate.dev](https://github.com/faisalahmedsifat/catstate.dev) — AI Agent for Quantum Computing
 
 Agentic tooling for quantum workflows. Active development.
 
