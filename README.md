@@ -44,12 +44,14 @@ tensorify clone <workflowId>    # pull generated source to inspect or modify
 ![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
 ![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
-### [catstate.dev](https://github.com/faisalahmedsifat/catstate.dev) — AI Agent for Quantum Computing
+### [catstate.dev](https://github.com/faisalahmedsifat/qbitlab) — Quantum Notebook Platform
 
-Agentic tooling for quantum workflows. Active development.
+Multi-tenant notebook platform with gVisor-isolated Python/Qiskit execution. Real-time output streaming, AI assist, public sharing and forking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
 ### [Dictator](https://github.com/faisalahmedsifat) — Local Voice Assistant for Linux
 
