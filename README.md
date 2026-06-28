@@ -25,7 +25,12 @@ Design workflows visually on a drag-and-drop canvas. Deploy to managed cloud or 
 **What's live:** 33 built-in plugins, AI Agent builder (ReAct + tool calling + streaming), OpenAI-compatible endpoints, MCP platform and trigger servers, in-canvas AI assistant (Claude), node-by-node visual debugging, real-time collaboration, Stripe billing, RBAC.
 
 ```bash
-npm install -g @tensorify.io/cli
+# Linux / macOS
+curl -fsSL https://cli.tensorify.io/install | sh
+
+# Windows (PowerShell)
+irm https://cli.tensorify.io/install.ps1 | iex
+
 tensorify init                  # guided setup: auth + config
 tensorify runner start          # connect your machine as a runner (zero inbound ports)
 tensorify export <workflowId>   # export compiled Python + requirements.txt
