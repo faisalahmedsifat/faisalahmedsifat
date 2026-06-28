@@ -55,9 +55,13 @@ Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dic
 
 ### Flexx.dev — Kernel-as-a-Service
 
-Kernel-as-a-Service platform with custom Go agent for build and deployment orchestration.
+GPU-accelerated cloud dev environments. Provision sandboxed kernels on demand — Jupyter, VS Code, shell — with per-second GPU billing, suspend-to-zero, and real-time file sync. Monorepo: 5 Bun/TS apps, 2 Go services, k3s + gVisor.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
+![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
 ---
 
