@@ -2,7 +2,7 @@
 
 # Faisal Ahmed Sifat
 
-**AI/ML Engineer · Full-Stack Developer · Technical Founder**
+**Software Engineer · AI/ML Researcher · Technical Founder**
 
 Building infrastructure primitives, AI tooling, and products that ship.
 Based in Dhaka, Bangladesh.
@@ -44,7 +44,7 @@ tensorify clone <workflowId>    # pull generated source to inspect or modify
 ![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
 ![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
-### [catstate.dev](https://github.com/faisalahmedsifat/qbitlab) — Quantum Notebook Platform
+### [catstate.dev](https://catstate.dev) — Quantum Notebook Platform
 
 Multi-tenant notebook platform with gVisor-isolated Python/Qiskit execution. Real-time output streaming, AI assist, public sharing and forking.
 
@@ -53,7 +53,7 @@ Multi-tenant notebook platform with gVisor-isolated Python/Qiskit execution. Rea
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
-### [Dictator](https://github.com/faisalahmedsifat) — Local Voice Assistant for Linux
+### [Dictator](https://github.com/faisalahmedsifat/dictator) — Local Voice Assistant for Linux
 
 Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dictation, smart agent control.
 
@@ -81,6 +81,8 @@ Small, focused, well-documented packages. No magic. Framework-agnostic.
 | [`@xyph3r/envman`](https://github.com/faisalahmedsifat/envman) | Environment variable manager for Node.js | ![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&logo=npm) |
 | [`@xyph3r/backfup`](https://github.com/faisalahmedsifat/backfup) | DB backups → S3-compatible storage. Streaming multipart, gzip, Docker-style CLI | ![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&logo=npm) |
 | [`@xyph3r/rate-limiter`](https://github.com/faisalahmedsifat/rate-limiter) | Redis-backed rate limiting. Sliding window + token bucket | ![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&logo=npm) |
+| [`@xyph3r/circuit-breaker`](https://github.com/faisalahmedsifat/circuit-breaker) | Circuit breaker for resilient service calls | ![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&logo=npm) |
+| [`@xyph3r/idempotency`](https://github.com/faisalahmedsifat/idempotency) | Idempotency key middleware for safe retries | ![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&logo=npm) |
 
 ---
 
@@ -93,6 +95,20 @@ Built to understand the internals of agentic loops — not a product, an explora
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+
+### [faultline](https://github.com/faisalahmedsifat/faultline)
+
+Self-hosted error tracking. Lightweight Sentry alternative, MIT licensed.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### [nodebind11](https://github.com/faisalahmedsifat/nodebind11)
+
+Header-only C++17 library for Node.js native addons. pybind11-style API on N-API.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
