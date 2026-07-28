@@ -44,22 +44,6 @@ tensorify clone <workflowId>    # pull generated source to inspect or modify
 ![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
 ![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
 
-### [catstate.dev](https://catstate.dev) — Quantum Notebook Platform
-
-Multi-tenant notebook platform with gVisor-isolated Python/Qiskit execution. Real-time output streaming, AI assist, public sharing and forking.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
-
-### [Dictator](https://github.com/faisalahmedsifat/dictator) — Local Voice Assistant for Linux
-
-Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dictation, smart agent control.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-121212?style=flat-square)
-
 ### [Flexx.dev](https://flexx.dev) — Connect Your Machine to AI Agents via MCP
 
 Give AI agents like Cursor, Claude, and ChatGPT secure access to your dev machine. Run code, edit files, and execute commands remotely via MCP — zero inbound ports, one-command install.
@@ -78,6 +62,13 @@ Add to Cursor/Claude Desktop:
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-121212?style=flat-square)
+
+### [Dictator](https://github.com/faisalahmedsifat/dictator) — Local Voice Assistant for Linux
+
+Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dictation, smart agent control.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-121212?style=flat-square)
 
 ---
 
