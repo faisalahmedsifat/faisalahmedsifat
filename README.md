@@ -60,15 +60,24 @@ Privacy-first, fully offline voice assistant. "Hey Jarvis" wake word, global dic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-121212?style=flat-square)
 
-### Flexx.dev — Kernel-as-a-Service
+### [Flexx.dev](https://flexx.dev) — Connect Your Machine to AI Agents via MCP
 
-GPU-accelerated cloud dev environments. Provision sandboxed kernels on demand — Jupyter, VS Code, shell — with per-second GPU billing, suspend-to-zero, and real-time file sync. Monorepo: 5 Bun/TS apps, 2 Go services, k3s + gVisor.
+Give AI agents like Cursor, Claude, and ChatGPT secure access to your dev machine. Run code, edit files, and execute commands remotely via MCP — zero inbound ports, one-command install.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**What's live:** MCP-native tool access (file ops, shell commands, screenshots), SSH access, localhost tunneling, auto-discovery of installed tools (ripgrep, Docker, Jupyter, Chrome, GPUs), OAuth 2.1 + PKCE auth. Single Go binary, zero dependencies — macOS, Linux, Windows.
+
+```bash
+curl -fsSL https://cli.flexx.dev/install.sh | sh
+flexx setup   # authenticate, register machine, start daemon
+```
+
+Add to Cursor/Claude Desktop:
+```json
+{ "mcpServers": { "flexx": { "url": "https://relay.flexx.dev/v1/mcp" } } }
+```
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
-![gVisor](https://img.shields.io/badge/gVisor-4285F4?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-121212?style=flat-square)
 
 ---
 
