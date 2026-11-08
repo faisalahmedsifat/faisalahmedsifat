@@ -22,7 +22,7 @@ Based in Dhaka, Bangladesh.
 
 Design workflows visually on a drag-and-drop canvas. Deploy to managed cloud or self-host on your own machine — **compiles to real Python**, zero lock-in.
 
-**What's live:** 33 built-in plugins, AI Agent builder (ReAct + tool calling + streaming), OpenAI-compatible endpoints, MCP platform and trigger servers, in-canvas AI assistant (Claude), node-by-node visual debugging, real-time collaboration, Stripe billing, RBAC.
+**What's live:** 100+ built-in plugins (Gmail, Google Drive, Sheets, Calendar, Slack, GitHub, Linear, Stripe, Postgres and more), AI Agent builder (ReAct + tool calling + streaming), OpenAI-compatible endpoints, MCP platform and trigger servers, in-canvas AI assistant (Claude), node-by-node visual debugging, real-time collaboration, Stripe billing, RBAC.
 
 ```bash
 # Linux / macOS
